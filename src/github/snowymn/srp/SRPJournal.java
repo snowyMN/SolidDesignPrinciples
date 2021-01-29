@@ -84,7 +84,7 @@ class DemoSRP{
 
         Persistence persistence = new Persistence();
         persistence.saveToFile(journal, "journal.txt", true);
-        
+
     }
 
 }

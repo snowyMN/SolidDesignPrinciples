@@ -1,4 +1,4 @@
-package github.snowymn.ocp;
+package github.snowymn.solid.ocp;
 
 import java.util.List;
 import java.util.stream.Stream;

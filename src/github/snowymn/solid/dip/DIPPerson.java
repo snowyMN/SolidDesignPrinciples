@@ -1,4 +1,4 @@
-package github.snowymn.dip;
+package github.snowymn.solid.dip;
 import org.javatuples.Triplet;
 
 import java.util.ArrayList;

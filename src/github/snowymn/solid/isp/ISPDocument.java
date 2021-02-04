@@ -1,4 +1,4 @@
-package github.snowymn.isp;
+package github.snowymn.solid.isp;
 
 /**
  * Interface Segregation Principle is a recommendation on how to split interfaces

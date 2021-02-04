@@ -1,6 +1,4 @@
-package github.snowymn.liskov;
-
-import java.awt.*;
+package github.snowymn.solid.liskov;
 
 /**
  * Should be able to substitute a subclass (derived class) for a base class.

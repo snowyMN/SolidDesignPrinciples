@@ -11,7 +11,6 @@ class HtmlElement{
     private final String NEW_LINE = System.lineSeparator();
 
     public HtmlElement(){
-
     }
     public HtmlElement(String name, String text){
         this.name = name;
